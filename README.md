@@ -41,14 +41,3 @@
 </picture>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/arthur-soares-marques-38865934a " target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="arthursoaresmarques78@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
