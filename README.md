@@ -1,36 +1,46 @@
-<h1 align="left">👨‍💻 About Me</h1>
+<h2 align="left">👨‍💻About me</h2>
 
 ###
 
-<p align="left">Hello, my name is Arthur Soares Marques, and I am currently pursuing a degree in Computer Science at the Federal University of Lavras (UFLA) in Brazil.<br>I am deeply interested in leveraging technology to address real-world challenges, with particular focus on algorithms, data structures, and systems development.<br><br>I am committed to continuous learning and actively seek opportunities to grow as a developer by building practical solutions and engaging with complex technical problems.</p>
+<p align="left">Meu nome é Arthur Soares Marques, sou estudante de Ciência da Computação no 4º período da UFLA e estou sempre buscando aprender e aplicar novas tecnologias. Tenho experiência em Front-End e estou cada vez mais envolvido com IA e Ciência de Dados, participando ativamente do NIAD (Núcleo de Estudos de IA e Dados).<br><br>Além disso, sou membro da Emakers Jr., onde trabalho em soluções tecnológicas e desenvolvimento de projetos práticos. Estou sempre em busca de novos desafios para continuar crescendo como desenvolvedor e contribuir para a comunidade tecnológica.</p>
 
 ###
 
-<h1 align="left">Techs</h1>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<h1 align="left">Stats</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurDp78&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurDp78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ArthurDp78&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArthurDp78&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurDp78&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ArthurDp78&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurDp78/ArthurDp78/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArthurDp78/ArthurDp78/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArthurDp78/ArthurDp78/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
