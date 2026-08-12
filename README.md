@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Arthur Soares Marques, sou estudante de Ciência da Computação no 4º período da UFLA e estou sempre buscando aprender e aplicar novas tecnologias. Tenho experiência em Front-End e estou cada vez mais envolvido com IA e Ciência de Dados, participando ativamente do NIAD (Núcleo de Estudos de IA e Dados).<br><br>Além disso, sou membro da Emakers Jr., onde trabalho em soluções tecnológicas e desenvolvimento de projetos práticos. Estou sempre em busca de novos desafios para continuar crescendo como desenvolvedor e contribuir para a comunidade tecnológica.</p>
+<p align="left">Meu nome é Arthur Soares Marques, sou estudante de Ciência da Computação no 6º período da UFLA e estou sempre buscando aprender e aplicar novas tecnologias. Tenho experiência em Front-End e estou cada vez mais envolvido com IA e Ciência de Dados, participando ativamente do NIAD (Núcleo de Estudos de IA e Dados).<br><br>Além disso, sou membro da Emakers Jr., onde trabalho em soluções tecnológicas e desenvolvimento de projetos práticos. Estou sempre em busca de novos desafios para continuar crescendo como desenvolvedor e contribuir para a comunidade tecnológica.</p>
 
 ###
 
